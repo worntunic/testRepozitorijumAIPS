@@ -15,6 +15,6 @@ public class AIPSTest1 {
      */
     public static void main(String[] args) {
         int a = 1;
-        String b = "b2";
+        String b = "b4";
     }
 }
